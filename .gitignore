@@ -1,16 +1,32 @@
-# Windows:
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+# Prerequisites
+*.d
 
-# Python:
-*.py[cod]
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
 *.so
-*.egg
-*.egg-info
-dist
-build
+*.dylib
+*.dll
 
-# My configurations:
-db.ini
-deploy_key_rsa
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

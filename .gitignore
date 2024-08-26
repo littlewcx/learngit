@@ -26,6 +26,14 @@
 *.a
 *.lib
 
+*.tlog
+*.lastbuildstate
+*.vsidx
+*.opendb
+*.db-shm
+*.db-wal
+*ipch
+
 # Executables
 *.exe
 *.out

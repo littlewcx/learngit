@@ -33,6 +33,10 @@
 *.db-shm
 *.db-wal
 *ipch
+*.idb
+*.db
+
+
 
 # Executables
 *.exe
